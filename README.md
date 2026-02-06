@@ -2,7 +2,15 @@
 
 **`Estudante | Desenvolvedor | Dados | Segurança | Infra`**
 
-Me chamo Luiz Gustavo Hadermeck Silva, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia da Computação. Sou apaixonado por tecnologia, sempre buscando aprender mais.
+Sou estudante de Engenharia da Computação e entusiasta de Cibersegurança. Atualmente, trabalho com a sustentação de sistemas e infraestrutura de TI na Prefeitura de Votuporanga, onde aprendo diariamente sobre a resiliência e segurança de ambientes reais.
+
+🚀 Sobre o meu portefólio: No histórico tenho vários projetos desenvolvidos em TypeScript. Utilizei esta stack como um laboratório para consolidar os meus fundamentos de lógica de programação, consumo de APIs e arquitetura web.
+
+🎯 Foco Atual: Hoje, direciono os meus estudos e a minha paixão para áreas onde me sinto mais produtivo e desafiado: Python, Laravel, PHP, SQL Server e C#. O meu objetivo é aplicar estes conhecimentos em Automação, Engenharia de Dados e Segurança da Informação.
+
+Habilidades: Python, SQL, Git, C e C#.
+
+Diferencial: Inglês Avançado (C1).
 ---
 
 ### 🤖 Linguagens e Tecnologias
